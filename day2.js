@@ -42,4 +42,21 @@ Logical NOT: !
 let age = 19;
 // Ternary Operator short of if and else statements
 let abc = age>18? "Adult" : "Not Adult";
-// console.log(abc);
+console.log(abc);
+// Answers
+// 30
+// 200
+// 0.5
+// 10
+// -10
+// false
+// false
+// true
+// true
+// false
+// true
+// false
+// true
+// true
+// false
+// Adult
